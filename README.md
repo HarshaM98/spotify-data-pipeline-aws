@@ -1,4 +1,3 @@
-# spotify-data-pipeline-aws
 # Spotify Data Pipeline on AWS
 
 ## Project Overview
